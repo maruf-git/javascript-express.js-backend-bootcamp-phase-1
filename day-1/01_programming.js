@@ -1,0 +1,1 @@
+// source code (javascript)  -> tranaslator -> machine code(0,1)
