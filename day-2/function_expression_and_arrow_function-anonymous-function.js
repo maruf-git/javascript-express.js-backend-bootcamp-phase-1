@@ -8,7 +8,7 @@ let mark = 90; //expression
 //     return
 // }
 
-function add(num1 = 0, num2 = 0) { // anonumous function
+function add(num1 = 0, num2 = 0) {
     return num1 + num2
 }
 console.log(add(10, 5))
