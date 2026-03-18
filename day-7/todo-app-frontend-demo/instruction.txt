@@ -1,0 +1,1 @@
+1. run : npm run dev and open the frontend in your browser

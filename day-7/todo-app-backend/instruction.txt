@@ -1,0 +1,5 @@
+1. first run: npm install
+2. setup mongodb connection as i have shown in the video
+3. update .env DB_USER, DB_PASS. Use your own mongodb username, and password
+4. then run: npm run dev
+it will and open http:localhost:3000 in you browser

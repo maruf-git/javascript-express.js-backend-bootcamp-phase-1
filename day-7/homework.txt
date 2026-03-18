@@ -1,0 +1,2 @@
+1. create an express server and connect to mongodb
+2. create an express server and conncect to mongodb. Use "TodoDB" for storing data and name your collection as "todosCollection". Then make get, post, put(for updating single todo) and delete(for deleting single todo) api. Test it with postman and then add the api to the frontend as i have shown in the video
